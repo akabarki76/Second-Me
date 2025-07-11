@@ -1,5 +1,9 @@
 ![Second Me](https://github.com/mindverse/Second-Me/blob/master/images/cover.png)
+<a href="https://github.com/akabarki76/Second-Me/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akabarki76/Second-Me" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 <div align="center">
   
 [![Homepage](https://img.shields.io/badge/Second_Me-Homepage-blue?style=flat-square&logo=homebridge)](https://www.secondme.io/)
